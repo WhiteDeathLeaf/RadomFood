@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pageCapacity">
+        <item>最大数量：10</item>
+        <item>最大数量：20</item>
+        <item>最大数量：30</item>
+        <item>最大数量：40</item>
+        <item>最大数量：50</item>
+        <item>最大数量：60</item>
+        <item>最大数量：70</item>
+        <item>最大数量：80</item>
+        <item>最大数量：90</item>
+        <item>最大数量：100</item>
+    </string-array>
+    <string-array name="radius">
+        <item>搜索范围：500</item>
+        <item>搜索范围：1000</item>
+        <item>搜索范围：1500</item>
+        <item>搜索范围：2000</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">吃什么</string>
+    <string name="main_location">位置</string>
+    <string name="main_select_food">帮我选一下</string>
+    <string name="main_select_location">我要选位置</string>
+    <string name="main_mine_food">自选列表</string>
+    <string name="main_def_location">江苏省南京市</string>
+    <string name="main_today_eat">今天吃什么？</string>
+
+    <string name="tip_none">餐饮列表中没有内容</string>
+    <string name="tip_running">不要慌，正在为您随机筛选</string>
+    <string name="tip_waring">请不要频繁操作</string>
+    <string name="tip_failed">检索失败：%1$s</string>
+
+    <string name="recover_title">恢复门店</string>
+    <string name="recover_content">恢复：%1$s\n恢复后将回到餐饮列表中</string>
+    <string name="recover_positive">我要恢复</string>
+    <string name="recover_negative">还是不喜欢</string>
+
+    <string name="navigation_title">步行导航</string>
+    <string name="navigation_content">当前位置：\n%1$s\n目的地：\n%2$s\n决定了吗？</string>
+    <string name="navigation_positive">出发吧</string>
+    <string name="navigation_negative">不去了</string>
+
+    <string name="dislike_title">不喜欢这家店</string>
+    <string name="dislike_content">不喜欢：\n%1$s\n以后将不再加入餐饮列表中</string>
+    <string name="dislike_positive">我不喜欢</string>
+    <string name="dislike_negative">我再想想</string>
+
+    <string name="setting_capacity">设置容量</string>
+    <string name="setting_radius">设置范围</string>
+    <string name="setting_positive">确定</string>
+    <string name="setting_negative">取消</string>
+</resources>
